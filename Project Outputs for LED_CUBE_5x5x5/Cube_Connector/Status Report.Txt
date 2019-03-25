@@ -1,0 +1,13 @@
+Output: Copy of NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Cube_Connector.PcbDoc]
+   Generated File[Cube_Connector.TXT]
+   Generated File[Cube_Connector.DRL]
+   Generated File[Cube_Connector.LDP]
+   Generated File[Cube_Connector.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:12:33 On 18.01.2012

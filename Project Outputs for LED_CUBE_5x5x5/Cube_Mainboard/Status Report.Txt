@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Cube_Mainboard.PcbDoc]
+   Generated File[Cube_Mainboard.TXT]
+   Generated File[Cube_Mainboard.DRL]
+   Generated File[Cube_Mainboard.LDP]
+   Generated File[Cube_Mainboard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:13:07 On 18.01.2012

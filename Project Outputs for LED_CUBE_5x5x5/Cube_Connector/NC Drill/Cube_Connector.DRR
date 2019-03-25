@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Cube_Connector.PcbDoc   18.01.2012  12:12:33
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Cube_Connector.TXT
+EIA File   : Cube_Connector.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.9mm (35.433mil)        Round          25               520.00 mm (20.47 Inch)
+T2        0.99mm (38.976mil)       Round          30               73.66 mm (2.90 Inch)
+T3        1.5mm (59.055mil)        Round          5                80.00 mm (3.15 Inch)
+T4        3mm (118.11mil)          Round          4                348.74 mm (13.73 Inch)
+---------------------------------------------------------------------------
+Totals                                            64               1022.40 mm (40.25 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

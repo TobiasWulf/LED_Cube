@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Cube_Mainboard.PcbDoc   18.01.2012  12:13:06
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Cube_Mainboard.TXT
+EIA File   : Cube_Mainboard.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        Round          80               686.50 mm (27.03 Inch)
+T2        0.762mm (30mil)          Round          4                18.09 mm (0.71 Inch)
+T3        0.8mm (31.496mil)        Round          2                5.00 mm (0.20 Inch)
+T4        0.85mm (33.465mil)       Round          28               415.13 mm (16.34 Inch)
+T5        0.9mm (35.433mil)        Round          199              956.60 mm (37.66 Inch)
+T6        0.92mm (36.221mil)       Round          4                6.50 mm (0.26 Inch)
+T7        0.99mm (38.976mil)       Round          30               73.66 mm (2.90 Inch)
+T8        1mm (39.37mil)           Round          10               156.91 mm (6.18 Inch)
+T9        1.016mm (40mil)          Round          4                20.59 mm (0.81 Inch)
+T10       1.1mm (43.307mil)        Round          18               184.86 mm (7.28 Inch)
+T11       1.2mm (47.244mil)        Round          2                10.46 mm (0.41 Inch)
+T12       2.3mm (90.551mil)        Round          2                12.04 mm (0.47 Inch)
+T13       3mm (118.11mil)          Round          4                348.74 mm (13.73 Inch)
+---------------------------------------------------------------------------
+Totals                                            387              2895.08 mm (113.98 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

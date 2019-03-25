@@ -1,0 +1,874 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+                              (vfprintf)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                              (vfscanf)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                              main.o (__divmodhi4)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o) (__prologue_saves__)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o) (__epilogue_restores__)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                              main.o (rand)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o) (isspace)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o) (strchr_P)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o) (fgetc)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o) (fputc)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o) (ungetc)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o) (__ultoa_invert)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o) (__mulsi3)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o) (__divmodsi4)
+c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+snake               0xb4              main.o
+posz                0x2               main.o
+current_Yrow        0x1               main.o
+tmpcube             0x19              main.o
+current_effect      0x1               main.o
+_X_                 0x5               main.o
+position            0x6               main.o
+fruitz              0x2               main.o
+cube                0x19              main.o
+posx                0x2               main.o
+direction           0x2               main.o
+_Y_                 0x5               main.o
+fruit               0x6               main.o
+head                0x6               main.o
+fruitx              0x2               main.o
+choice              0x1               main.o
+fruity              0x2               main.o
+posy                0x2               main.o
+current_layer       0x1               main.o
+_Z_                 0x5               main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+LOAD main.o
+LOAD simple_draw.o
+LOAD animation.o
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2eac
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000054       0x34 simple_draw.o
+ *(.progmem*)
+ .progmem.data  0x00000088       0x1e animation.o
+                0x00000088                spinning_line
+ .progmem.data  0x000000a6       0x17 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+ .progmem.data  0x000000bd        0xb c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                0x000000c8                . = ALIGN (0x2)
+                0x000000c8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c8                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c8                __ctors_start = .
+ *(.ctors)
+                0x000000c8                __ctors_end = .
+                0x000000c8                __dtors_start = .
+ *(.dtors)
+                0x000000c8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c8        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+                0x000000c8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c8        0xc c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d4       0x16 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                0x000000d4                __do_copy_data
+ .init4         0x000000ea       0x10 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000fa        0x8 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000102        0x4 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000102                __vector_1
+                0x00000102                __vector_12
+                0x00000102                __bad_interrupt
+                0x00000102                __vector_6
+                0x00000102                __vector_11
+                0x00000102                __vector_13
+                0x00000102                __vector_17
+                0x00000102                __vector_19
+                0x00000102                __vector_7
+                0x00000102                __vector_5
+                0x00000102                __vector_4
+                0x00000102                __vector_9
+                0x00000102                __vector_2
+                0x00000102                __vector_15
+                0x00000102                __vector_8
+                0x00000102                __vector_14
+                0x00000102                __vector_16
+                0x00000102                __vector_18
+                0x00000102                __vector_20
+ .text          0x00000106      0xa9a main.o
+                0x00000802                displaySnake
+                0x000008e2                boot_check
+                0x0000058a                enlarge
+                0x00000106                fillSnake
+                0x0000076e                __vector_3
+                0x00000142                snakeMove
+                0x000007aa                check
+                0x000009cc                fruitHandler
+                0x00000584                directionHandler
+                0x00000b72                main
+                0x00000638                delay_ms
+                0x00000654                cube_ini
+                0x00000a16                start
+                0x000006da                __vector_10
+                0x00000946                generateFruitPlace
+                0x00000b68                launch_effect
+ .text          0x00000ba0     0x1452 simple_draw.o
+                0x00001400                writeE
+                0x00001650                writeN
+                0x00001864                writeW
+                0x000015ce                writeL
+                0x000016d4                writeP
+                0x00000f50                line_z
+                0x00000d78                setplane_x
+                0x00000ca2                alterLED
+                0x00000c7a                inrange
+                0x00001824                writeU
+                0x0000196c                writeZ
+                0x00000d3a                setplane_z
+                0x00000dc6                clrplane_x
+                0x00001340                writeB
+                0x00000d5a                clrplane_z
+                0x00001fe6                letterToInt
+                0x0000158c                writeK
+                0x00000e3c                setplane
+                0x000012d2                fill
+                0x00001442                writeF
+                0x00000cf2                flpLED
+                0x000013c0                writeD
+                0x000018e8                writeX
+                0x0000123e                tmp2cube
+                0x00000be8                clrLED
+                0x000018a6                writeV
+                0x0000160e                writeM
+                0x00001716                writeQ
+                0x00000fa2                line_x
+                0x00001508                writeI
+                0x00001288                cube2tmp
+                0x0000179e                writeS
+                0x00001380                writeC
+                0x00001694                writeO
+                0x00001484                writeG
+                0x00001548                writeJ
+                0x00000c32                getLED
+                0x0000192a                writeY
+                0x000019b0                getLetter
+                0x00000ba0                setLED
+                0x00000e16                setplane_y
+                0x00001046                drawline_plane
+                0x00000ff4                line_y
+                0x000012fe                writeA
+                0x000014c8                writeH
+                0x00000e2a                clrplane_y
+                0x000017e4                writeT
+                0x0000175a                writeR
+ .text          0x00001ff2      0x48c animation.o
+                0x000023fe                eestecAnimation
+                0x00002394                animateLetter
+                0x000022ca                LCKrakow
+                0x00002328                writeFilRos
+                0x000020d6                animateE
+                0x000023d6                alphabet
+                0x00002076                generateDot
+                0x00002282                animateCharacter
+                0x00001ff2                moveDot
+                0x000020ae                matrix
+                0x0000236a                writeEestec
+                0x000021c8                effect_spiral
+                0x0000211e                effect_spinning_plane
+                0x000020c6                writeBlank
+ .text          0x0000247e      0x23e c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+                0x0000247e                vfprintf
+ .text          0x000026bc      0x3be c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                0x00002872                vfscanf
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00002a7a        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00002a7a       0xc2 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                0x00002b16                rand_r
+                0x00002b1c                rand
+                0x00002b26                srand
+ .text          0x00002b3c        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00002b3c       0x16 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+                0x00002b3c                strchr_P
+ .text          0x00002b52       0x84 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                0x00002b52                fgetc
+ .text          0x00002bd6       0x58 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00002bd6                fputc
+ .text          0x00002c2e       0x34 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                0x00002c2e                ungetc
+ .text          0x00002c62       0xbc c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00002c62                __ultoa_invert
+ .text          0x00002d1e        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00002d1e        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00002d1e        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00002d1e        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002d1e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00002d1e       0x26 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00002d1e                __divmodhi4
+                0x00002d1e                _div
+ .text.libgcc   0x00002d44       0x38 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                0x00002d44                __prologue_saves__
+ .text.libgcc   0x00002d7c       0x36 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                0x00002d7c                __epilogue_restores__
+ .text.libgcc   0x00002db2        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002db2        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00002db2        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002db2       0x28 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002db2                __udivmodhi4
+ .text.ctype    0x00002dda       0x10 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                0x00002dda                isspace
+ .text.ctype    0x00002dea        0x6 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                0x00002dee                __ctype_istrue
+                0x00002dea                __ctype_isfalse
+ .text.libgcc   0x00002df0       0x3e c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                0x00002df0                __mulsi3
+ .text.libgcc   0x00002e2e       0x36 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00002e2e                __divmodsi4
+ .text.libgcc   0x00002e64       0x44 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002e64                __udivmodsi4
+                0x00002ea8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002ea8        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                0x00002ea8                exit
+                0x00002ea8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002ea8        0x4 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002eac                _etext = .
+
+.data           0x00800060        0x4 load address 0x00002eac
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 main.o
+ .data          0x00800060        0x0 simple_draw.o
+ .data          0x00800060        0x0 animation.o
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800060        0x4 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800064                . = ALIGN (0x2)
+                0x00800064                _edata = .
+                0x00800064                PROVIDE (__data_end, .)
+
+.bss            0x00800064      0x119
+                0x00800064                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800064        0x0 main.o
+ .bss           0x00800064        0x0 simple_draw.o
+ .bss           0x00800064        0x0 animation.o
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800064        0x0 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800064      0x119 main.o
+                0x00800064                snake
+                0x00800118                posz
+                0x0080011a                current_Yrow
+                0x0080011b                tmpcube
+                0x00800134                current_effect
+                0x00800135                _X_
+                0x0080013a                position
+                0x00800140                fruitz
+                0x00800142                cube
+                0x0080015b                posx
+                0x0080015d                direction
+                0x0080015f                _Y_
+                0x00800164                fruit
+                0x0080016a                head
+                0x00800170                fruitx
+                0x00800172                choice
+                0x00800173                fruity
+                0x00800175                posy
+                0x00800177                current_layer
+                0x00800178                _Z_
+                0x0080017d                PROVIDE (__bss_end, .)
+                0x00002eac                __data_load_start = LOADADDR (.data)
+                0x00002eb0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080017d        0x0
+                0x0080017d                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080017d                PROVIDE (__noinit_end, .)
+                0x0080017d                _end = .
+                0x0080017d                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 simple_draw.o
+ .debug_aranges
+                0x00000040       0x20 animation.o
+
+.debug_pubnames
+                0x00000000      0x627
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x1e1 main.o
+ .debug_pubnames
+                0x000001e1      0x2c2 simple_draw.o
+ .debug_pubnames
+                0x000004a3      0x184 animation.o
+
+.debug_info     0x00000000     0x2e2d
+ *(.debug_info)
+ .debug_info    0x00000000      0x773 main.o
+ .debug_info    0x00000773     0x20c2 simple_draw.o
+ .debug_info    0x00002835      0x5f8 animation.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x61a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x21a main.o
+ .debug_abbrev  0x0000021a      0x285 simple_draw.o
+ .debug_abbrev  0x0000049f      0x17b animation.o
+
+.debug_line     0x00000000     0x1f5d
+ *(.debug_line)
+ .debug_line    0x00000000      0x756 main.o
+ .debug_line    0x00000756     0x12c1 simple_draw.o
+ .debug_line    0x00001a17      0x546 animation.o
+
+.debug_frame    0x00000000      0x510
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x110 main.o
+ .debug_frame   0x00000110      0x310 simple_draw.o
+ .debug_frame   0x00000420       0xf0 animation.o
+
+.debug_str      0x00000000      0x4a6
+ *(.debug_str)
+ .debug_str     0x00000000      0x1c2 main.o
+                                0x20f (size before relaxing)
+ .debug_str     0x000001c2      0x1ee simple_draw.o
+                                0x25b (size before relaxing)
+ .debug_str     0x000003b0       0xf6 animation.o
+                                0x1e0 (size before relaxing)
+
+.debug_loc      0x00000000     0x15e8
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x293 main.o
+ .debug_loc     0x00000293      0xf4b simple_draw.o
+ .debug_loc     0x000011de      0x40a animation.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(main.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x198
+ .debug_ranges  0x00000000       0xf0 main.o
+ .debug_ranges  0x000000f0       0x30 simple_draw.o
+ .debug_ranges  0x00000120       0x78 animation.o
+
+Cross Reference Table
+
+Symbol                                            File
+LCKrakow                                          animation.o
+_X_                                               animation.o
+                                                  simple_draw.o
+                                                  main.o
+_Y_                                               animation.o
+                                                  simple_draw.o
+                                                  main.o
+_Z_                                               animation.o
+                                                  simple_draw.o
+                                                  main.o
+__bad_interrupt                                   c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__bss_end                                         c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__ctype_isfalse                                   c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+__ctype_istrue                                    c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+__data_end                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                                                  animation.o
+                                                  main.o
+__divmodsi4                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+__do_clear_bss                                    c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+                                                  animation.o
+                                                  simple_draw.o
+                                                  main.o
+__do_copy_data                                    c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+                                                  animation.o
+                                                  simple_draw.o
+                                                  main.o
+__epilogue_restores__                             c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+__heap_end                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__init                                            c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__mulsi3                                          c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+__prologue_saves__                                c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+__stack                                           c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__udivmodhi4                                      c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+__ultoa_invert                                    c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+__vector_1                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_10                                       main.o
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_11                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_12                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_13                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_14                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_15                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_16                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_17                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_18                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_19                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_2                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_20                                       c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_3                                        main.o
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_4                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_5                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_6                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_7                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_8                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_9                                        c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vector_default                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+__vectors                                         c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+_div                                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+alphabet                                          animation.o
+alterLED                                          simple_draw.o
+animateCharacter                                  animation.o
+animateE                                          animation.o
+animateLetter                                     animation.o
+boot_check                                        main.o
+check                                             main.o
+choice                                            animation.o
+                                                  main.o
+clrLED                                            simple_draw.o
+                                                  animation.o
+clrplane_x                                        simple_draw.o
+clrplane_y                                        simple_draw.o
+clrplane_z                                        simple_draw.o
+cube                                              animation.o
+                                                  simple_draw.o
+                                                  main.o
+cube2tmp                                          simple_draw.o
+cube_ini                                          main.o
+current_Yrow                                      animation.o
+                                                  simple_draw.o
+                                                  main.o
+current_effect                                    animation.o
+                                                  simple_draw.o
+                                                  main.o
+current_layer                                     animation.o
+                                                  simple_draw.o
+                                                  main.o
+delay_ms                                          main.o
+                                                  animation.o
+direction                                         animation.o
+                                                  simple_draw.o
+                                                  main.o
+directionHandler                                  main.o
+displaySnake                                      main.o
+drawline_plane                                    simple_draw.o
+eestecAnimation                                   animation.o
+effect_spinning_plane                             animation.o
+effect_spiral                                     animation.o
+enlarge                                           main.o
+exit                                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+fgetc                                             c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+fill                                              simple_draw.o
+                                                  animation.o
+                                                  main.o
+fillSnake                                         main.o
+flpLED                                            simple_draw.o
+fputc                                             c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+fruit                                             main.o
+fruitHandler                                      main.o
+fruitx                                            main.o
+fruity                                            main.o
+fruitz                                            main.o
+generateDot                                       animation.o
+generateFruitPlace                                main.o
+getLED                                            simple_draw.o
+                                                  animation.o
+                                                  main.o
+getLetter                                         simple_draw.o
+                                                  animation.o
+head                                              main.o
+inrange                                           simple_draw.o
+isspace                                           c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+launch_effect                                     main.o
+letterToInt                                       simple_draw.o
+                                                  animation.o
+line_x                                            simple_draw.o
+line_y                                            simple_draw.o
+line_z                                            simple_draw.o
+main                                              main.o
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm32.o
+matrix                                            animation.o
+                                                  main.o
+moveDot                                           animation.o
+position                                          main.o
+posx                                              main.o
+posy                                              main.o
+posz                                              main.o
+rand                                              c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  animation.o
+                                                  main.o
+rand_r                                            c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+setLED                                            simple_draw.o
+                                                  animation.o
+                                                  main.o
+setplane                                          simple_draw.o
+setplane_x                                        simple_draw.o
+setplane_y                                        simple_draw.o
+setplane_z                                        simple_draw.o
+snake                                             main.o
+snakeMove                                         main.o
+spinning_line                                     animation.o
+srand                                             c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(rand.o)
+start                                             main.o
+                                                  animation.o
+strchr_P                                          c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+tmp2cube                                          simple_draw.o
+tmpcube                                           animation.o
+                                                  simple_draw.o
+                                                  main.o
+ungetc                                            c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                                                  c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+vfprintf                                          c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
+vfscanf                                           c:/winavr-20081205/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libscanf_min.a(vfscanf_min.o)
+writeA                                            simple_draw.o
+writeB                                            simple_draw.o
+writeBlank                                        animation.o
+writeC                                            simple_draw.o
+                                                  animation.o
+writeD                                            simple_draw.o
+writeE                                            simple_draw.o
+                                                  animation.o
+writeEestec                                       animation.o
+                                                  main.o
+writeF                                            simple_draw.o
+writeFilRos                                       animation.o
+writeG                                            simple_draw.o
+writeH                                            simple_draw.o
+writeI                                            simple_draw.o
+writeJ                                            simple_draw.o
+writeK                                            simple_draw.o
+writeL                                            simple_draw.o
+writeM                                            simple_draw.o
+writeN                                            simple_draw.o
+writeO                                            simple_draw.o
+writeP                                            simple_draw.o
+writeQ                                            simple_draw.o
+writeR                                            simple_draw.o
+writeS                                            simple_draw.o
+                                                  animation.o
+writeT                                            simple_draw.o
+                                                  animation.o
+writeU                                            simple_draw.o
+writeV                                            simple_draw.o
+writeW                                            simple_draw.o
+writeX                                            simple_draw.o
+writeY                                            simple_draw.o
+writeZ                                            simple_draw.o
